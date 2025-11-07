@@ -12,9 +12,9 @@ A comprehensive fitness tracking application built with React.js, Firebase Authe
 ## Setup Instructions
 
 ### 1. Install Dependencies
-```bash
+bash
 npm install
-```
+
 
 ### 2. Configure Firebase
 1. Create a Firebase project at [https://console.firebase.google.com/](https://console.firebase.google.com/)
