@@ -1,13 +1,13 @@
-# Fitness Dashboard - Setup Guide
+Fitness Dashboard - Setup Guide
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before you begin, make sure you have the following installed:
 - Node.js (v14 or higher)
 - MongoDB (local installation or MongoDB Atlas account)
 - A Firebase account
 
-## 🚀 Step-by-Step Setup
+##  Step-by-Step Setup
 
 ### 1. Install Dependencies
 
@@ -72,7 +72,7 @@ npm run server
 You should see:
 ```
 ✅ Connected to MongoDB
-🚀 Server is running on port 5000
+ Server is running on port 5000
 ```
 
 **Terminal 2 - Start the React App:**
